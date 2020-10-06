@@ -86,18 +86,19 @@ section p {
 
 /* Section Images */
 section#history {
-    background: url('https://source.unsplash.com/bZZp1PmHI0E/1600x900') no-repeat center center/cover;;
+    background: url('img/particle.png') no-repeat center center/cover;;
 }
   
 section#education {
-    background: url('https://source.unsplash.com/VRxo0yY-gyM/1600x900') no-repeat center center/cover;;
+    background: url('img/circ.png') no-repeat center center/cover;;
+    background
 }
   
 section#experience {
-    background: url('https://source.unsplash.com/K2tdx2mFDHc/1600x900') no-repeat center center/cover;;
+    background: url('img/space.png') no-repeat center center/cover;;
 }
   
 section#summary {
-    background: url('https://source.unsplash.com/2aAHlfDOhJM/1600x900') no-repeat center center/cover;;
+    background: url('img/geo.png') no-repeat center center/cover;;
 }
   
