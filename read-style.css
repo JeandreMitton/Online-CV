@@ -86,19 +86,34 @@ section p {
 
 /* Section Images */
 section#history {
-    background: url('img/particle.png') no-repeat center center/cover;;
+    background: url('img/geom.png') no-repeat center center/cover;;
 }
   
 section#education {
-    background: url('img/circs.png') no-repeat center center/cover;;
-    background
+    background: url('img/geocol.png') no-repeat center center/cover;;
 }
   
 section#experience {
-    background: url('img/space.png') no-repeat center center/cover;;
+    background: url('img/geop.png') no-repeat center center/cover;;
 }
   
 section#summary {
     background: url('img/geo.png') no-repeat center center/cover;;
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    margin-top: 1rem;
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 3, 129, 0.75);
+    transition: opacity 1s ease-in;
+}
+
+.btn:hover {
+    opacity: 0.7;
 }
   
