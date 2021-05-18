@@ -46,6 +46,7 @@ body {
 .showcase .showcase-inner {
     display: flex;
     flex-direction: column;
+    padding: 5vh; 
     align-items: center;    
     justify-content: center;
     text-align: center;
