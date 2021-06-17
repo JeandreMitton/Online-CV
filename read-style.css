@@ -105,22 +105,22 @@ section p {
 
 /* Section Images */
 section#history {
-    /* background: url('img/geom.png') no-repeat center center/cover;; */
+    background: url('img/geom.png') no-repeat center center/cover;
     background-color:rgb(20, 20, 20);
 }
   
 section#education {
-    /* background: url('img/geocol.png') no-repeat center center/cover;; */
+    background: url('img/geocol.png') no-repeat center center/cover;
     background-color:rgb(71, 71, 71);
 }
   
 section#experience {
-    /* background: url('img/geop.png') no-repeat center center/cover;; */
+    background: url('img/geop.png') no-repeat center center/cover;
     background-color:rgb(20, 20, 20);
 }
   
 section#summary {
-    /* background: url('img/geo.png') no-repeat center center/cover;; */
+    background: url('img/geo.png') no-repeat center center/cover;
     background-color:rgb(71, 71, 71);
 }
 
